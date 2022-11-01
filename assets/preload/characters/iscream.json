@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Idle Iscream scared"
+		},
+		{
+			"offsets": [
+				130,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Left Iscream scared"
+		},
+		{
+			"offsets": [
+				30,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right Iscream scared"
+		},
+		{
+			"offsets": [
+				29,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Down Iscream scared"
+		},
+		{
+			"offsets": [
+				236,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up Iscream scared"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "child",
+			"indices": [],
+			"name": "Dialog Iscream"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle Iscream0"
+		},
+		{
+			"offsets": [
+				130,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left Iscream0"
+		},
+		{
+			"offsets": [
+				30,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Iscream0"
+		},
+		{
+			"offsets": [
+				30,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Iscream0"
+		},
+		{
+			"offsets": [
+				231,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Iscream0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Iscream",
+	"position": [
+		10,
+		260
+	],
+	"healthicon": "iscream",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-70,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

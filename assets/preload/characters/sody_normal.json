@@ -1,0 +1,116 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Sody",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"offsets": [
+				-14,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle Sody"
+		},
+		{
+			"offsets": [
+				-25,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Up sody"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				38
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right Sody",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				39
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left Sody",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				9,
+				9,
+				9,
+				9,
+				9,
+				9,
+				9
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sody_Pop",
+	"position": [
+		50,
+		420
+	],
+	"healthicon": "sodypop",
+	"flip_x": true,
+	"healthbar_colors": [
+		247,
+		102,
+		23
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
