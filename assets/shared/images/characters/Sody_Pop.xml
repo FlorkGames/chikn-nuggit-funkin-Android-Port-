@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sody pop fall 1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dialog Sody0000" x="4" y="4" width="406" height="491" pivotX="31.15" pivotY="145.85" frameX="-2" frameY="-8" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0001" x="414" y="4" width="406" height="491" frameX="-2" frameY="-8" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0002" x="824" y="4" width="451" height="499" frameX="-7" frameY="0" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0003" x="1279" y="4" width="451" height="499" frameX="-7" frameY="0" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0004" x="1734" y="4" width="604" height="455" frameX="-17" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0005" x="1734" y="4" width="604" height="455" frameX="-17" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0006" x="2342" y="4" width="598" height="455" frameX="-23" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0007" x="2944" y="4" width="598" height="455" frameX="-23" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0008" x="3546" y="4" width="603" height="455" frameX="-18" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0009" x="4153" y="4" width="603" height="455" frameX="-18" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0010" x="4760" y="4" width="610" height="455" frameX="-11" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0011" x="4760" y="4" width="610" height="455" frameX="-11" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0012" x="5374" y="4" width="618" height="455" frameX="-3" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0013" x="4" y="507" width="618" height="455" frameX="-3" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0014" x="626" y="507" width="595" height="455" frameX="-26" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0015" x="1225" y="507" width="595" height="455" frameX="-26" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0016" x="1824" y="507" width="591" height="455" frameX="-30" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0017" x="1824" y="507" width="591" height="455" frameX="-30" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0018" x="2419" y="507" width="597" height="455" frameX="-24" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0019" x="3020" y="507" width="597" height="455" frameX="-24" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0020" x="3621" y="507" width="621" height="455" frameX="0" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0021" x="3621" y="507" width="621" height="455" frameX="0" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0022" x="4246" y="507" width="621" height="455" frameX="0" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0023" x="4871" y="507" width="616" height="455" frameX="-5" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0024" x="4871" y="507" width="616" height="455" frameX="-5" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0025" x="4" y="966" width="607" height="455" frameX="-14" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0026" x="4" y="966" width="607" height="455" frameX="-14" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0027" x="615" y="966" width="600" height="455" frameX="-21" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0028" x="615" y="966" width="600" height="455" frameX="-21" frameY="-44" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0029" x="1219" y="966" width="584" height="441" frameX="-21" frameY="-58" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0030" x="1807" y="966" width="525" height="384" frameX="-21" frameY="-115" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0031" x="2336" y="966" width="476" height="355" frameX="-14" frameY="-144" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0032" x="2816" y="966" width="460" height="351" frameX="-14" frameY="-148" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0033" x="3280" y="966" width="375" height="351" frameX="-14" frameY="-148" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0034" x="3280" y="966" width="375" height="351" frameX="-14" frameY="-148" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0035" x="3280" y="966" width="375" height="351" frameX="-14" frameY="-148" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0036" x="3280" y="966" width="375" height="351" frameX="-14" frameY="-148" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0037" x="3280" y="966" width="375" height="351" frameX="-14" frameY="-148" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0038" x="3280" y="966" width="375" height="351" frameX="-14" frameY="-148" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0039" x="3280" y="966" width="375" height="351" frameX="-14" frameY="-148" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0040" x="3280" y="966" width="375" height="351" frameX="-14" frameY="-148" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Dialog Sody0041" x="3280" y="966" width="375" height="351" frameX="-14" frameY="-148" frameWidth="621" frameHeight="499"/>
+	<SubTexture name="Down Sody0000" x="3659" y="966" width="375" height="300" pivotX="56.7" pivotY="-48.65" frameX="0" frameY="-5" frameWidth="396" frameHeight="305"/>
+	<SubTexture name="Down Sody0001" x="4038" y="966" width="375" height="300" frameX="0" frameY="-5" frameWidth="396" frameHeight="305"/>
+	<SubTexture name="Down Sody0002" x="4417" y="966" width="376" height="301" frameX="-3" frameY="-4" frameWidth="396" frameHeight="305"/>
+	<SubTexture name="Down Sody0003" x="4417" y="966" width="376" height="301" frameX="-3" frameY="-4" frameWidth="396" frameHeight="305"/>
+	<SubTexture name="Down Sody0004" x="4797" y="966" width="376" height="305" frameX="-16" frameY="0" frameWidth="396" frameHeight="305"/>
+	<SubTexture name="Down Sody0005" x="5177" y="966" width="376" height="305" frameX="-16" frameY="0" frameWidth="396" frameHeight="305"/>
+	<SubTexture name="Down Sody0006" x="5557" y="966" width="373" height="305" frameX="-23" frameY="0" frameWidth="396" frameHeight="305"/>
+	<SubTexture name="Down Sody0007" x="5557" y="966" width="373" height="305" frameX="-23" frameY="0" frameWidth="396" frameHeight="305"/>
+	<SubTexture name="Down Sody0008" x="5557" y="966" width="373" height="305" frameX="-23" frameY="0" frameWidth="396" frameHeight="305"/>
+	<SubTexture name="Down Sody0009" x="5557" y="966" width="373" height="305" frameX="-23" frameY="0" frameWidth="396" frameHeight="305"/>
+	<SubTexture name="Down Sody Miss0000" x="3659" y="966" width="375" height="300" pivotX="56.7" pivotY="-48.65" frameX="-11" frameY="0" frameWidth="396" frameHeight="305"/>
+	<SubTexture name="Down Sody Miss0001" x="4" y="1425" width="410" height="281" frameX="-3" frameY="-19" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0002" x="4" y="1425" width="410" height="281" frameX="-3" frameY="-19" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0003" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0004" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0005" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0006" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0007" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0008" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0009" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0010" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0011" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0012" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0013" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0014" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0015" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0016" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Down Sody Miss0017" x="418" y="1425" width="416" height="280" frameX="0" frameY="-21" frameWidth="416" frameHeight="301"/>
+	<SubTexture name="Fall 0000" x="838" y="1425" width="173" height="410" pivotX="129.25" pivotY="862.2" frameX="-168" frameY="-62" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0001" x="838" y="1425" width="173" height="410" frameX="-168" frameY="-62" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0002" x="1015" y="1425" width="185" height="407" frameX="-159" frameY="-150" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0003" x="1204" y="1425" width="185" height="1222" frameX="-159" frameY="0" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0004" x="1393" y="1425" width="119" height="1603" frameX="-196" frameY="-93" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0005" x="1516" y="1425" width="128" height="1558" frameX="-189" frameY="-97" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0006" x="1648" y="1425" width="281" height="196" frameX="-118" frameY="-1498" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0007" x="1933" y="1425" width="276" height="223" frameX="-122" frameY="-1470" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0008" x="1933" y="1425" width="276" height="223" frameX="-122" frameY="-1470" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0009" x="2213" y="1425" width="239" height="231" frameX="-142" frameY="-1450" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0010" x="2456" y="1425" width="213" height="284" frameX="-149" frameY="-1392" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0011" x="2673" y="1425" width="298" height="332" frameX="-59" frameY="-1294" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0012" x="2975" y="1425" width="319" height="330" frameX="-50" frameY="-1295" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0013" x="3298" y="1425" width="369" height="384" frameX="0" frameY="-1241" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0014" x="3671" y="1425" width="458" height="407" frameX="-56" frameY="-1273" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0015" x="4133" y="1425" width="434" height="238" frameX="-77" frameY="-1454" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0016" x="4571" y="1425" width="439" height="278" frameX="-74" frameY="-1419" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0017" x="5014" y="1425" width="444" height="333" frameX="-77" frameY="-1388" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Fall 0018" x="5462" y="1425" width="436" height="345" frameX="-85" frameY="-1376" frameWidth="521" frameHeight="1721"/>
+	<SubTexture name="Idle Sody0000" x="4" y="3032" width="391" height="348" pivotX="29.85" pivotY="-1.55" frameX="0" frameY="-5" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0001" x="4" y="3032" width="391" height="348" frameX="0" frameY="-5" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0002" x="399" y="3032" width="382" height="353" frameX="-5" frameY="0" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0003" x="399" y="3032" width="382" height="353" frameX="-5" frameY="0" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0004" x="785" y="3032" width="360" height="350" frameX="-15" frameY="-3" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0005" x="785" y="3032" width="360" height="350" frameX="-15" frameY="-3" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0006" x="1149" y="3032" width="351" height="350" frameX="-21" frameY="-3" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0007" x="1149" y="3032" width="351" height="350" frameX="-21" frameY="-3" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0008" x="1149" y="3032" width="351" height="350" frameX="-21" frameY="-3" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0009" x="1149" y="3032" width="351" height="350" frameX="-21" frameY="-3" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0010" x="1149" y="3032" width="351" height="350" frameX="-21" frameY="-3" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0011" x="1149" y="3032" width="351" height="350" frameX="-21" frameY="-3" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0012" x="1149" y="3032" width="351" height="350" frameX="-21" frameY="-3" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Idle Sody0013" x="1149" y="3032" width="351" height="350" frameX="-21" frameY="-3" frameWidth="391" frameHeight="353"/>
+	<SubTexture name="Left Sody0000" x="3481" y="3032" width="406" height="352" pivotX="75.85" pivotY="-2.3" frameX="0" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody0001" x="1504" y="3032" width="406" height="352" frameX="0" frameY="0" frameWidth="408" frameHeight="352"/>
+	<SubTexture name="Left Sody0002" x="1914" y="3032" width="400" height="352" frameX="-8" frameY="0" frameWidth="408" frameHeight="352"/>
+	<SubTexture name="Left Sody0003" x="1914" y="3032" width="400" height="352" frameX="-8" frameY="0" frameWidth="408" frameHeight="352"/>
+	<SubTexture name="Left Sody0004" x="2318" y="3032" width="387" height="352" frameX="-19" frameY="0" frameWidth="408" frameHeight="352"/>
+	<SubTexture name="Left Sody0005" x="2709" y="3032" width="387" height="352" frameX="-19" frameY="0" frameWidth="408" frameHeight="352"/>
+	<SubTexture name="Left Sody0006" x="3100" y="3032" width="377" height="351" frameX="-31" frameY="-1" frameWidth="408" frameHeight="352"/>
+	<SubTexture name="Left Sody0007" x="3100" y="3032" width="377" height="351" frameX="-31" frameY="-1" frameWidth="408" frameHeight="352"/>
+	<SubTexture name="Left Sody0008" x="3100" y="3032" width="377" height="351" frameX="-31" frameY="-1" frameWidth="408" frameHeight="352"/>
+	<SubTexture name="Left Sody0009" x="3100" y="3032" width="377" height="351" frameX="-31" frameY="-1" frameWidth="408" frameHeight="352"/>
+	<SubTexture name="Left Sody Miss0000" x="3481" y="3032" width="406" height="352" pivotX="75.85" pivotY="-2.3" frameX="-2" frameY="0" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0001" x="3891" y="3032" width="413" height="351" frameX="-6" frameY="-2" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0002" x="3891" y="3032" width="413" height="351" frameX="-6" frameY="-2" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0003" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0004" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0005" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0006" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0007" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0008" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0009" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0010" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0011" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0012" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0013" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0014" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0015" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0016" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0017" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0018" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0019" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0020" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0021" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0022" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Left Sody Miss0023" x="4308" y="3032" width="417" height="349" frameX="0" frameY="-4" frameWidth="419" frameHeight="353"/>
+	<SubTexture name="Right Sody0000" x="4729" y="3032" width="355" height="353" pivotX="-2.25" pivotY="-1.45" frameX="-28" frameY="0" frameWidth="383" frameHeight="353"/>
+	<SubTexture name="Right Sody0001" x="5088" y="3032" width="355" height="353" frameX="-28" frameY="0" frameWidth="383" frameHeight="353"/>
+	<SubTexture name="Right Sody0002" x="5447" y="3032" width="342" height="353" frameX="-29" frameY="0" frameWidth="383" frameHeight="353"/>
+	<SubTexture name="Right Sody0003" x="5447" y="3032" width="342" height="353" frameX="-29" frameY="0" frameWidth="383" frameHeight="353"/>
+	<SubTexture name="Right Sody0004" x="4" y="3389" width="320" height="341" frameX="-5" frameY="-12" frameWidth="383" frameHeight="353"/>
+	<SubTexture name="Right Sody0005" x="328" y="3389" width="320" height="341" frameX="-5" frameY="-12" frameWidth="383" frameHeight="353"/>
+	<SubTexture name="Right Sody0006" x="652" y="3389" width="318" height="337" frameX="-4" frameY="-16" frameWidth="383" frameHeight="353"/>
+	<SubTexture name="Right Sody0007" x="652" y="3389" width="318" height="337" frameX="-4" frameY="-16" frameWidth="383" frameHeight="353"/>
+	<SubTexture name="Right Sody0008" x="974" y="3389" width="318" height="337" frameX="0" frameY="-16" frameWidth="383" frameHeight="353"/>
+	<SubTexture name="Right Sody0009" x="974" y="3389" width="318" height="337" frameX="0" frameY="-16" frameWidth="383" frameHeight="353"/>
+	<SubTexture name="Right Sody Miss0000" x="1296" y="3389" width="355" height="353" pivotX="-8.1" pivotY="-1.85" frameX="-22" frameY="0" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0001" x="1655" y="3389" width="374" height="350" frameX="0" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0002" x="1655" y="3389" width="374" height="350" frameX="0" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0003" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0004" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0005" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0006" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0007" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0008" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0009" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0010" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0011" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0012" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0013" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0014" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0015" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0016" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0017" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0018" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Right Sody Miss0019" x="2033" y="3389" width="366" height="350" frameX="-14" frameY="-7" frameWidth="380" frameHeight="357"/>
+	<SubTexture name="Sody death loop0000" x="2403" y="3389" width="343" height="398" pivotX="0" pivotY="44.95" frameX="0" frameY="0" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0001" x="2403" y="3389" width="343" height="398" frameX="0" frameY="0" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0002" x="2750" y="3389" width="329" height="387" frameX="-14" frameY="-11" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0003" x="2750" y="3389" width="329" height="387" frameX="-14" frameY="-11" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0004" x="3083" y="3389" width="313" height="381" frameX="-22" frameY="-17" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0005" x="3083" y="3389" width="313" height="381" frameX="-22" frameY="-17" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0006" x="3400" y="3389" width="303" height="376" frameX="-29" frameY="-22" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0007" x="3400" y="3389" width="303" height="376" frameX="-29" frameY="-22" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0008" x="3707" y="3389" width="313" height="376" frameX="-29" frameY="-22" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0009" x="3707" y="3389" width="313" height="376" frameX="-29" frameY="-22" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0010" x="4024" y="3389" width="329" height="376" frameX="-22" frameY="-22" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0011" x="4024" y="3389" width="329" height="376" frameX="-22" frameY="-22" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0012" x="4024" y="3389" width="329" height="376" frameX="-22" frameY="-22" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0013" x="4024" y="3389" width="329" height="376" frameX="-22" frameY="-22" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="Sody death loop0014" x="4357" y="3389" width="351" height="398"/>
+	<SubTexture name="Sody death restart0000" x="4712" y="3389" width="302" height="398" pivotX="28.3" pivotY="44.95" frameX="-28" frameY="0" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0001" x="5018" y="3389" width="241" height="428" frameX="-41" frameY="-23" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0002" x="5263" y="3389" width="343" height="404" frameX="0" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0003" x="5610" y="3389" width="334" height="404" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0004" x="4" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0005" x="342" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0006" x="680" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0007" x="1018" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0008" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0009" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0010" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0011" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0012" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0013" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0014" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0015" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0016" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0017" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0018" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0019" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0020" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0021" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0022" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0023" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0024" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0025" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0026" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0027" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0028" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0029" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0030" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0031" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0032" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0033" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0034" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0035" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0036" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0037" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0038" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0039" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0040" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0041" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0042" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0043" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0044" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0045" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0046" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0047" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0048" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0049" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0050" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0051" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0052" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0053" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0054" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0055" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0056" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0057" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0058" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0059" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0060" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0061" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0062" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0063" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0064" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0065" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0066" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0067" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0068" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0069" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0070" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0071" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0072" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0073" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0074" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0075" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0076" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0077" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0078" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0079" x="1694" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody death restart0080" x="1356" y="3821" width="334" height="354" frameX="-9" frameY="-44" frameWidth="343" frameHeight="451"/>
+	<SubTexture name="Sody dies0000" x="2032" y="3821" width="351" height="350" pivotX="21.45" pivotY="44.95" frameX="-13" frameY="-48" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0001" x="2032" y="3821" width="351" height="350" frameX="-13" frameY="-48" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0002" x="2387" y="3821" width="364" height="342" frameX="0" frameY="-56" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0003" x="2387" y="3821" width="364" height="342" frameX="0" frameY="-56" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0004" x="2755" y="3821" width="363" height="312" frameX="-1" frameY="-86" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0005" x="2755" y="3821" width="363" height="312" frameX="-1" frameY="-86" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0006" x="3122" y="3821" width="350" height="270" frameX="-14" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0007" x="3476" y="3821" width="331" height="270" frameX="-33" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0008" x="3811" y="3821" width="324" height="270" frameX="-40" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0009" x="3811" y="3821" width="324" height="270" frameX="-40" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0010" x="4139" y="3821" width="319" height="270" frameX="-45" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0011" x="4139" y="3821" width="319" height="270" frameX="-45" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0012" x="4462" y="3821" width="327" height="270" frameX="-37" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0013" x="4793" y="3821" width="330" height="270" frameX="-34" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0014" x="4793" y="3821" width="330" height="270" frameX="-34" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0015" x="5127" y="3821" width="342" height="270" frameX="-22" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0016" x="5473" y="3821" width="346" height="270" frameX="-18" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0017" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0018" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0019" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0020" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0021" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0022" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0023" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0024" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0025" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0026" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0027" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0028" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0029" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0030" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0031" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0032" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0033" x="4" y="4179" width="312" height="270" frameX="-52" frameY="-128" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0034" x="320" y="4179" width="312" height="337" frameX="-52" frameY="-61" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0035" x="636" y="4179" width="312" height="342" frameX="-52" frameY="-56" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0036" x="952" y="4179" width="343" height="398" frameX="-21" frameY="0" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0037" x="952" y="4179" width="343" height="398" frameX="-21" frameY="0" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0038" x="1299" y="4179" width="328" height="386" frameX="-36" frameY="-12" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0039" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0040" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0041" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0042" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0043" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0044" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0045" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0046" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0047" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0048" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0049" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0050" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0051" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0052" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0053" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0054" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0055" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Sody dies0056" x="1631" y="4179" width="320" height="381" frameX="-44" frameY="-17" frameWidth="364" frameHeight="398"/>
+	<SubTexture name="Up sody0000" x="1955" y="4179" width="336" height="381" pivotX="5.75" pivotY="23.65" frameX="-13" frameY="0" frameWidth="356" frameHeight="381"/>
+	<SubTexture name="Up sody0001" x="2295" y="4179" width="336" height="381" frameX="-13" frameY="0" frameWidth="356" frameHeight="381"/>
+	<SubTexture name="Up sody0002" x="2635" y="4179" width="349" height="373" frameX="-7" frameY="-8" frameWidth="356" frameHeight="381"/>
+	<SubTexture name="Up sody0003" x="2635" y="4179" width="349" height="373" frameX="-7" frameY="-8" frameWidth="356" frameHeight="381"/>
+	<SubTexture name="Up sody0004" x="2988" y="4179" width="351" height="366" frameX="0" frameY="-15" frameWidth="356" frameHeight="381"/>
+	<SubTexture name="Up sody0005" x="3343" y="4179" width="351" height="366" frameX="0" frameY="-15" frameWidth="356" frameHeight="381"/>
+	<SubTexture name="Up sody0006" x="3698" y="4179" width="350" height="358" frameX="0" frameY="-22" frameWidth="356" frameHeight="381"/>
+	<SubTexture name="Up sody0007" x="3698" y="4179" width="350" height="358" frameX="0" frameY="-22" frameWidth="356" frameHeight="381"/>
+	<SubTexture name="Up sody0008" x="3698" y="4179" width="350" height="358" frameX="0" frameY="-22" frameWidth="356" frameHeight="381"/>
+	<SubTexture name="Up sody0009" x="3698" y="4179" width="350" height="358" frameX="0" frameY="-22" frameWidth="356" frameHeight="381"/>
+	<SubTexture name="Up sody Miss0000" x="4052" y="4179" width="336" height="381" pivotX="11.15" pivotY="48.2" frameX="-19" frameY="-25" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0001" x="4392" y="4179" width="360" height="399" frameX="0" frameY="-7" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0002" x="4392" y="4179" width="360" height="399" frameX="0" frameY="-7" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0003" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0004" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0005" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0006" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0007" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0008" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0009" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0010" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0011" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0012" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0013" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0014" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0015" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+	<SubTexture name="Up sody Miss0016" x="4756" y="4179" width="352" height="405" frameX="-4" frameY="0" frameWidth="360" frameHeight="406"/>
+</TextureAtlas>
